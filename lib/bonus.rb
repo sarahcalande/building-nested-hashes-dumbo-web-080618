@@ -1,5 +1,6 @@
 def bonus
   puts [:status] = "dead"
+end
   
   puts bonus
   
