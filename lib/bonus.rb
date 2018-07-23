@@ -1,5 +1,5 @@
 def bonus
-  puts [:status] = "dead"
+epic_tragedy[:status] = "dead"
 end
   
   puts bonus
