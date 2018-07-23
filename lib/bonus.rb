@@ -1,7 +1,6 @@
 def bonus
   
-  puts bonus
-  
+
   epic_tragedy = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
@@ -23,7 +22,7 @@ def bonus
    }
   }
 epic_tragedy[:montague][:status] = "dead"
-end
+
   #code your solution here:
 
   
