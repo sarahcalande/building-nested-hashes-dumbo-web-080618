@@ -1,5 +1,5 @@
 def bonus
-epic_tragedy[:status] = "dead"
+epic_tragedy[:montague][:status] = "dead"
 end
   
   puts bonus
